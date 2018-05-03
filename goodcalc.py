@@ -4,17 +4,12 @@ print("2. Subtraction")
 print("3. Multiplication")
 print("4. Division")
 
-def addition (x, y):
-    return x + y
+import calcmod
 
-def Subtraction(x, y):
-    return x - y
-
-def multiplication(x, y):
-    return x * y
-
-def division(x, y):
-    return x / y
+calcmod.addition
+calcmod.subtraction
+calcmod.multiplication
+calcmod.division
 
 choice = None
 
